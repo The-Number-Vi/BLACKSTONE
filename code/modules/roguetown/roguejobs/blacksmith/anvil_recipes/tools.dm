@@ -48,6 +48,12 @@
 	additional_items = list(/obj/item/grown/log/tree/stick)
 	created_item = /obj/item/rogueweapon/pick
 
+/datum/anvil_recipe/tools/steelpick
+	name = "steelpick (+ stick)"
+	req_bar = /obj/item/ingot/steel
+	additional_items = list(/obj/item/grown/log/tree/stick, /obj/item/ingot/steel)
+	created_item = /obj/item/rogueweapon/steelpick
+
 /datum/anvil_recipe/tools/hoe
 	name = "hoe (+2 sticks)"
 	req_bar = /obj/item/ingot/iron

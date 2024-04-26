@@ -58,7 +58,7 @@
 	slot_flags = ITEM_SLOT_HIP | ITEM_SLOT_BACK
 	wlength = WLENGTH_NORMAL
 	w_class = WEIGHT_CLASS_BULKY
-	toolspeed = 0.5
+	toolspeed = 0.3
 	wdefense = 2
 	wbalance = -1
 	associated_skill = /datum/skill/combat/axesmaces
